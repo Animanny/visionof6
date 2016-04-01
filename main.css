@@ -1,0 +1,63 @@
+body {
+    background-color: black
+}
+
+#title{
+    color: white;
+    font-family: 'Inconsolata';
+}
+
+p{
+    color:white;
+    font-family:'Inconsolata';
+    text-decoration: none;
+    text-align: right;
+}
+
+p:hover{
+    text-decoration: underline;
+}
+
+#links{
+    text-decoration: none;
+    
+} 
+
+h1{
+    color:white;
+}
+
+a:link {
+    color:white;
+    text-decoration: none;
+}
+
+a:visited {
+    color:white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:white;
+    text-decoration: underline;
+}
+
+a:active {
+    color:white;
+    text-decoration: underline;
+}
+
+img{
+    position:fixed;
+    bottom:0px;
+    left:44%;
+    width:10%;
+    
+}
+
+#headers{
+    
+    color: white;
+    font-family: 'Inconsolata';
+    margin-top:50px;
+}
